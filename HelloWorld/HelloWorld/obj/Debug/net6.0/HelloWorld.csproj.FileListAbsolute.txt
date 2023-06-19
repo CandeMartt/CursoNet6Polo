@@ -1,0 +1,15 @@
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+d:\Users\popular\Documents\CursoNet6Polo\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

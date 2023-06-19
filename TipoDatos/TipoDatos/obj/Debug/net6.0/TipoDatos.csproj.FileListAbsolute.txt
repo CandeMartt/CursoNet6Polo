@@ -1,0 +1,15 @@
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.exe
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.deps.json
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.runtimeconfig.json
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.dll
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\bin\Debug\net6.0\TipoDatos.pdb
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.csproj.AssemblyReference.cache
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.AssemblyInfoInputs.cache
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.AssemblyInfo.cs
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.csproj.CoreCompileInputs.cache
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.dll
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\refint\TipoDatos.dll
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.pdb
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\TipoDatos.genruntimeconfig.cache
+D:\Users\popular\Documents\CursoNet6Polo\TipoDatos\TipoDatos\obj\Debug\net6.0\ref\TipoDatos.dll

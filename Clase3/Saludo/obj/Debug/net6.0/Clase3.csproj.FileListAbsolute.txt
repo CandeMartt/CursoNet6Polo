@@ -1,0 +1,15 @@
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\bin\Debug\net6.0\Clase3.exe
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\bin\Debug\net6.0\Clase3.deps.json
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\bin\Debug\net6.0\Clase3.runtimeconfig.json
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\bin\Debug\net6.0\Clase3.dll
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\bin\Debug\net6.0\Clase3.pdb
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.csproj.AssemblyReference.cache
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfoInputs.cache
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.AssemblyInfo.cs
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.csproj.CoreCompileInputs.cache
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.dll
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\refint\Clase3.dll
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.pdb
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\Clase3.genruntimeconfig.cache
+D:\Users\popular\Documents\CursoNet6Polo\Clase3\Clase3\obj\Debug\net6.0\ref\Clase3.dll

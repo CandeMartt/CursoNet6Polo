@@ -1,0 +1,15 @@
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\bin\Debug\net6.0\ConceptosBasicos.exe
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\bin\Debug\net6.0\ConceptosBasicos.deps.json
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\bin\Debug\net6.0\ConceptosBasicos.runtimeconfig.json
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\bin\Debug\net6.0\ConceptosBasicos.dll
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\bin\Debug\net6.0\ConceptosBasicos.pdb
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.csproj.AssemblyReference.cache
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.AssemblyInfoInputs.cache
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.AssemblyInfo.cs
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.csproj.CoreCompileInputs.cache
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.dll
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\refint\ConceptosBasicos.dll
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.pdb
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ConceptosBasicos.genruntimeconfig.cache
+D:\Users\popular\Documents\CursoNet6Polo\ConceptosBasicos\ConceptosBasicos\obj\Debug\net6.0\ref\ConceptosBasicos.dll
