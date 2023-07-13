@@ -1,0 +1,15 @@
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.exe
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.deps.json
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.runtimeconfig.json
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\bin\Debug\net6.0\Calculo.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.AssemblyReference.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfoInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfo.cs
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\refint\Calculo.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\Calculo.genruntimeconfig.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase3\Calculo\Calculo\Calculo\obj\Debug\net6.0\ref\Calculo.dll
