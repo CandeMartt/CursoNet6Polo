@@ -1,0 +1,15 @@
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.exe
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.deps.json
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.runtimeconfig.json
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\bin\Debug\net6.0\Vuelteretas.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.csproj.AssemblyReference.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.AssemblyInfoInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.AssemblyInfo.cs
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.csproj.CoreCompileInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\refint\Vuelteretas.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\Vuelteretas.genruntimeconfig.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase5\Vuelteretas\Vuelteretas\obj\Debug\net6.0\ref\Vuelteretas.dll
