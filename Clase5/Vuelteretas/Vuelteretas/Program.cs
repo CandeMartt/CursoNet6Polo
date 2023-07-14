@@ -2,33 +2,33 @@
 // CICLO WHILE
 
 // Lo inicializamos a cero
-//Console.WriteLine("Cuantas vueltas quiere dar?");
-//var totalDeVueltas = int.Parse(Console.ReadLine());
+Console.WriteLine("Cuantas vueltas quiere dar?");
+var totalDeVueltas = int.Parse(Console.ReadLine());
 
-//var contador = 0;
-
-
-//while (contador < totalDeVueltas) // Mientras el contador sea menor al total de vueltas el ciclo va a seguir dando vueltas. Cuando no se cumpla sale
-//{
-//    // Va a ir contando las vueltas que va dando
-//    contador++; // es lo mismo que escribir contador = contador + 1
-//    Console.WriteLine("Seguimos dando vueltas. Vuelta numero: " + contador);
-
-//}
+var contador = 0;
 
 
-//Console.WriteLine("Cuantas vueltas quiere dar?");
+while (contador < totalDeVueltas) // Mientras el contador sea menor al total de vueltas el ciclo va a seguir dando vueltas. Cuando no se cumpla sale
+{
+    // Va a ir contando las vueltas que va dando
+    contador++; // es lo mismo que escribir contador = contador + 1
+    Console.WriteLine("Seguimos dando vueltas. Vuelta numero: " + contador);
+
+}
+
+
+Console.WriteLine("Cuantas vueltas quiere dar?");
 //// Se declaran las variables por fuera del ciclo porque sino cada vez que entre al ciclo se vuelve a inicializar en cero, es decir se crea y se detruye constantemente
-//var respuesta = "S"; //Lo inicializamos como string porque sino nos tirara un error
-//var contador2 = 0;
+var respuesta = "S"; //Lo inicializamos como string porque sino nos tirara un error
+var contador2 = 0;
 
-//while (respuesta.ToUpper() != "N") 
-//{
-//    contador2++; 
-//    Console.WriteLine("Seguimos dando vueltas. Vuelta numero: " + contador2);
-//    Console.WriteLine("Seguimos? (S/N)");
-//    respuesta = Console.ReadLine();
-//}
+while (respuesta.ToUpper() != "N")
+{
+    contador2++;
+    Console.WriteLine("Seguimos dando vueltas. Vuelta numero: " + contador2);
+    Console.WriteLine("Seguimos? (S/N)");
+    respuesta = Console.ReadLine();
+}
 
 // CICLO FOR
 //   declaracion;      condicion;     paso
