@@ -56,12 +56,46 @@ else
 }
 
 
+//Ejercicio if-else anidados
+Console.Write("Ingrese numero 1: ");
+int numero1 = int.Parse(Console.ReadLine());
+
+Console.Write("Ingrese numero 2: ");
+var numero2 = int.Parse(Console.ReadLine());
+
+Console.Write("Ingrese numero 3: ");
+int numero3= int.Parse(Console.ReadLine());
+
+if(numero1 > numero2)
+{
+    if(numero1 > numero3)
+    {
+        Console.WriteLine("El primer numero es el mayor: " + numero1);
+    }
+    else
+    {
+        Console.WriteLine("El tercer numero es el mayor: " + numero3);
+    }
+}
+else
+{
+    if(numero2 > numero3)
+    {
+        Console.WriteLine("El segundo numero es el mayor: " + numero2);
+    }
+    else
+    {
+        Console.WriteLine("El tercer numero es el mayor: " + numero3);
+    }
+}
+
+
 //Ejercicio switch
 Console.WriteLine("Ingrese el primer numero: ");
-double numero1 = double.Parse(Console.ReadLine());
+double num1 = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Ingrese el segundo numero: ");
-double numero2 = double.Parse(Console.ReadLine());
+double num2 = double.Parse(Console.ReadLine());
 
 Console.WriteLine("1 - Suma");
 Console.WriteLine("2 - Resta");
@@ -77,19 +111,19 @@ double resultado = 0;
 switch (operacion)
 {
 	case "1":
-        resultado = numero1 + numero2;
+        resultado = num1 + num2;
 		Console.WriteLine("Sumando ...");
 		break;
     case "2":
-        resultado = numero1 - numero2;
+        resultado = num1 - num2;
         Console.WriteLine("Restando ...");
         break;
     case "3":
-        resultado = numero1 * numero2;
+        resultado = num1 * num2;
         Console.WriteLine("Multiplicando ...");
         break;
-    case "4" when numero2 != 0:
-        resultado = numero1 / numero2;
+    case "4" when num2 != 0:
+        resultado = num1 / num2;
         Console.WriteLine("Dividiendo ...");
         break;
     default:

@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Clase3",
     "\\Clase3\\Calculo",
     "\\Clase3\\Calculo\\Calculo",
     "\\Clase3\\Calculo\\Calculo\\Calculo",
     "\\Clase3\\Saludo"
   ],
-  "SelectedNode": "\\Clase3\\Calculo\\Calculo\\Calculo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
