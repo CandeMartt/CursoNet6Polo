@@ -64,11 +64,11 @@ Console.Write("Ingrese numero 2: ");
 var numero2 = int.Parse(Console.ReadLine());
 
 Console.Write("Ingrese numero 3: ");
-int numero3= int.Parse(Console.ReadLine());
+int numero3 = int.Parse(Console.ReadLine());
 
-if(numero1 > numero2)
+if (numero1 > numero2)
 {
-    if(numero1 > numero3)
+    if (numero1 > numero3)
     {
         Console.WriteLine("El primer numero es el mayor: " + numero1);
     }
@@ -79,7 +79,7 @@ if(numero1 > numero2)
 }
 else
 {
-    if(numero2 > numero3)
+    if (numero2 > numero3)
     {
         Console.WriteLine("El segundo numero es el mayor: " + numero2);
     }
@@ -110,10 +110,10 @@ double resultado = 0;
 
 switch (operacion)
 {
-	case "1":
+    case "1":
         resultado = num1 + num2;
-		Console.WriteLine("Sumando ...");
-		break;
+        Console.WriteLine("Sumando ...");
+        break;
     case "2":
         resultado = num1 - num2;
         Console.WriteLine("Restando ...");
@@ -128,7 +128,24 @@ switch (operacion)
         break;
     default:
         Console.WriteLine("Opcion no valida");
-		break;
+        break;
 }
 
 Console.WriteLine("El resultado es: " + resultado);
+
+// Comparacion
+Console.WriteLine("Desea continua? (S/N)");
+var texto = Console.ReadLine();
+
+if (texto.ToUpper() == "S")
+{
+    Console.WriteLine("Usted ingreso que SI");
+}
+else if (texto.ToUpper() == "N")
+{
+    Console.WriteLine("Usted ingreso que NO");
+}
+else
+{
+    Console.WriteLine("Por favor ingrese una opcion correcta");
+}
