@@ -48,6 +48,7 @@ for (int i = 0; i < numeros.Length; i++)
 Console.WriteLine($"El resultado de la suma es: {acumulador}");
 
 // TAREA
+// Indique por consola cual es el numero mayor dentro del array
 Console.WriteLine("Los valores son");
 for (int i = 0; i < numeros.Length; i++)
 {
