@@ -1,0 +1,15 @@
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\net6.0\EjercicioMatrices2.exe
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\net6.0\EjercicioMatrices2.deps.json
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\net6.0\EjercicioMatrices2.runtimeconfig.json
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\net6.0\EjercicioMatrices2.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\bin\Debug\net6.0\EjercicioMatrices2.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.csproj.AssemblyReference.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.AssemblyInfoInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.AssemblyInfo.cs
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.csproj.CoreCompileInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\refint\EjercicioMatrices2.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\EjercicioMatrices2.genruntimeconfig.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase9\EjercicioMatrices2\EjercicioMatrices2\obj\Debug\net6.0\ref\EjercicioMatrices2.dll
