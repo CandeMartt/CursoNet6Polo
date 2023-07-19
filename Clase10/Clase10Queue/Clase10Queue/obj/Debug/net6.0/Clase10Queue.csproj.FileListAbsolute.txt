@@ -1,0 +1,15 @@
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\bin\Debug\net6.0\Clase10Queue.exe
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\bin\Debug\net6.0\Clase10Queue.deps.json
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\bin\Debug\net6.0\Clase10Queue.runtimeconfig.json
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\bin\Debug\net6.0\Clase10Queue.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\bin\Debug\net6.0\Clase10Queue.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.csproj.AssemblyReference.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.AssemblyInfoInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.AssemblyInfo.cs
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.csproj.CoreCompileInputs.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\refint\Clase10Queue.dll
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.pdb
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\Clase10Queue.genruntimeconfig.cache
+C:\Users\CANDE\Documents\CursoPolo\Clase10\Clase10Queue\Clase10Queue\obj\Debug\net6.0\ref\Clase10Queue.dll
